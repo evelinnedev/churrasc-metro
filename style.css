@@ -1,6 +1,9 @@
 body{
     background-image:url(http://www.meupositivo.com.br/doseujeito/wp-content/uploads/2020/11/apps-para-organizar-churrasco.jpg);
     background-size: cover;
+    background-repeat: no-repeat;
+    height: 100vh;
+        
 }
 
 .container{
